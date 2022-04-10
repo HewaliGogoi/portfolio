@@ -54,7 +54,7 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar}>
-				<a href='http://localhost:3000/'>
+				<a href='https://hewali-portfolio.netlify.app/'>
 					<div className={styles.logo}>
 						<img
 							src='https://st2.depositphotos.com/4191945/6513/v/950/depositphotos_65138167-stock-illustration-logo-h-letter-for-company.jpg'
