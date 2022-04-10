@@ -74,8 +74,6 @@ const Contact = () => {
 				style={{ color: `${newTheme.para}` }}
 				className={styles.copyright}
 			>
-				Designed and build by Shubham Tammewar, 2022 All rights
-				reserved.
 			</div>
 		</footer>
 	);
