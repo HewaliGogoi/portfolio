@@ -10,9 +10,9 @@ export const projects = [
 		technologies: ['JavaScript','Redux','React','CSS','HTML'],
 	},
 	{
-		img: 'https://i.ibb.co/j5Y1tjw/image.png',
-		title: 'Clone of IndiaMart',
-		des: 'This is a clone of IndiaMart which is an Indian e-commerce company that provides B2B and customer to customer sales services via its web portal.',
+		img: 'https://i.ibb.co/c6qPMG1/Myntra-Home-Page-jpg.jpg',
+		title: 'Clone of Myntra',
+		des: 'This is a clone of Mynta which is an Indian fashion e-commerce company.',
 		demo: '',
 		live: '',
 		gitHub: 'https://github.com/HewaliGogoi/INDIA-MART',

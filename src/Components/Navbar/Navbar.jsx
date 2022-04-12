@@ -51,9 +51,12 @@ const Navbar = () => {
 			style={{
 				background: `${newTheme.background}`,
 				boxShadow: `3px 3px 10px ${newTheme.line}`,
+				fontSize:"150%",
+				position:"relative",
+				height:"50px"
 			}}
 		>
-			<div className={styles.navbar}>
+			<div className={styles.navbar} style={{position:"absolute", paddingTop:"1%"}}>
 				<a href='https://hewali-portfolio.netlify.app/'>
 					<div className={styles.logo}>
 						<img

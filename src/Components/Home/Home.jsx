@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					<img
 					     src={photo}
 					
-						alt='Profile pic' style={{height: '550px',width: '550px'}}
+						alt='Profile pic' style={{maxHeight: '500px',width: '450px'}}
 					/>
 				</div>
 			</div>

@@ -26,6 +26,7 @@ const ThemeContextProvider = ({ children }) => {
 	useEffect(() => {
 		localStorage.setItem('theme', JSON.stringify(mode));
 	}, [mode]);
+	
 	const handleMenu = () => {
 		setOpen(!open);
 	};
