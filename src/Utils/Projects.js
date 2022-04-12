@@ -14,7 +14,7 @@ export const projects = [
 		title: 'Clone of Myntra',
 		des: 'This is a clone of Mynta which is an Indian fashion e-commerce company.',
 		demo: '',
-		live: '',
+		live: 'https://myntracloneusingredux.netlify.app/',
 		gitHub: 'https://github.com/HewaliGogoi/INDIA-MART',
 		technologies: ['HTML', 'CSS', 'javaScript'],
 	},
