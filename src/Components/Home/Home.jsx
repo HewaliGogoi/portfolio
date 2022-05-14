@@ -5,7 +5,7 @@ import SideIcons from '../SideIcons/SideIcons';
 import TechStacks from '../TechStacks/TechStacks';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import photo from "../../logo/hewali2.png"
+import photo from "../../logo/hewali1.png"
 import { Button } from '../Button/Button';
 import About from '../About/About';
 import { projects } from '../../Utils/Projects';
@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					<img
 					     src={photo}
 					
-						alt='Profile pic' style={{maxHeight: '500px',width: '450px'}}
+						alt='Profile pic' style={{height: '100%',width: '85%'}}
 					/>
 				</div>
 			</div>
